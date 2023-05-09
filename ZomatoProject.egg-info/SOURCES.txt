@@ -1,0 +1,17 @@
+README.md
+setup.py
+ZomatoProject.egg-info/PKG-INFO
+ZomatoProject.egg-info/SOURCES.txt
+ZomatoProject.egg-info/dependency_links.txt
+ZomatoProject.egg-info/top_level.txt
+src/__init__.py
+src/exception.py
+src/logger.py
+src/utils.py
+src/components/__init__.py
+src/components/dataingestion.py
+src/components/datatransform.py
+src/components/modeltrainer.py
+src/pipeline/__init__.py
+src/pipeline/predectionpipeline.py
+src/pipeline/testingpipeline.py
