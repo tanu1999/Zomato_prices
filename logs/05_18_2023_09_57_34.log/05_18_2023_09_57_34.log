@@ -1,0 +1,4 @@
+[ 2023-05-18 09:57:35,291 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-05-18 09:57:38,238 ] 23 root - INFO - Data Ingestion method starts
+[ 2023-05-18 09:57:38,438 ] 26 root - INFO - dataset read as pandas as dataframe
+[ 2023-05-18 09:57:38,438 ] 44 root - INFO - Exception occured at Data Ingestion stage

@@ -9,9 +9,9 @@ src/exception.py
 src/logger.py
 src/utils.py
 src/components/__init__.py
-src/components/dataingestion.py
-src/components/datatransform.py
-src/components/modeltrainer.py
+src/components/data_ingestion.py
+src/components/data_transformation.py
+src/components/model_training.py
 src/pipeline/__init__.py
 src/pipeline/predectionpipeline.py
 src/pipeline/testingpipeline.py
